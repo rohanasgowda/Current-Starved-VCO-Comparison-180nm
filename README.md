@@ -1,8 +1,3 @@
-Yes — **full detailed README, but organized with collapsible dropdown sections** so the GitHub page stays clean.
-
-Copy **everything inside this code block** directly into your `README.md` editor:
-
-````markdown
 # Comparative Analysis of Current-Starved Ring VCOs
 
 ### 3-Stage, 5-Stage and 7-Stage VCOs Using GPDK 180nm CMOS Technology
